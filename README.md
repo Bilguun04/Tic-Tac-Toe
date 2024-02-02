@@ -53,4 +53,4 @@ Email: [bilguunbek0607@gmail.com](bilguunbek0607@gmail.com), [bilguun.tegshbayar
 
 ## Version History
 
-- v1.0 (Date): Initial release
+- v1.0 (2nd February): Initial release
